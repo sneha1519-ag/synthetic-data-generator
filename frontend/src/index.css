@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+@layer components {
+  .input-range {
+    @apply w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer;
+  }
+
+  .input-range::-webkit-slider-thumb {
+    @apply appearance-none w-4 h-4 rounded-full bg-blue-600;
+  }
+
+  .input-range::-moz-range-thumb {
+    @apply w-4 h-4 rounded-full border-0 bg-blue-600;
+  }
+
+  .card {
+    @apply bg-white p-6 rounded-lg shadow transition-all;
+  }
+
+  .card:hover {
+    @apply shadow-md;
+  }
+
+  .btn {
+    @apply py-2 px-4 rounded-md font-medium transition-colors;
+  }
+
+  .btn-primary {
+    @apply bg-blue-600 text-white hover:bg-blue-700;
+  }
+
+  .btn-success {
+    @apply bg-green-600 text-white hover:bg-green-700;
+  }
+
+  .btn-disabled {
+    @apply bg-gray-400 text-white cursor-not-allowed;
+  }
+}
+
+/* Additional styling */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-gray-50 text-gray-900 font-sans;
+}
+
+/* Make range sliders look better in Firefox */
+input[type="range"]::-moz-range-progress {
+  @apply bg-blue-500;
+}
+
+/* Custom checkbox styling */
+input[type="checkbox"] {
+  @apply rounded text-blue-600 focus:ring-blue-500;
+}
+
+/* Custom radio styling */
+input[type="radio"] {
+  @apply text-blue-600 focus:ring-blue-500;
+}
