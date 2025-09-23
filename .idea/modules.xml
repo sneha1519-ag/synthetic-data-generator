@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/synthetic-data.iml" filepath="$PROJECT_DIR$/.idea/synthetic-data.iml" />
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/synthetic-data-generator.iml" filepath="$PROJECT_DIR$/.idea/synthetic-data-generator.iml" />
+>>>>>>> 3031664 (Initial commit)
     </modules>
   </component>
 </project>
