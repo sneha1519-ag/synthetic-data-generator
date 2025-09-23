@@ -1,0 +1,11 @@
+student_name,student_roll_number,student_phone_number,student_email_id,student_address
+John Smith,S1001,555-123-4567,john.smith@example.com,"123 Main St, Anytown, CA 91234"
+Emily Johnson,S1002,555-987-6543,emily.johnson@example.com,"456 Oak Ave, Anytown, CA 91234"
+Michael Brown,S1003,555-111-2222,michael.brown@example.com,"789 Pine Ln, Anytown, CA 91234"
+Jessica Davis,S1004,555-333-4444,jessica.davis@example.com,"101 Elm St, Anytown, CA 91234"
+David Wilson,S1005,555-555-6666,david.wilson@example.com,"222 Maple Dr, Anytown, CA 91234"
+Ashley Anderson,S1006,555-777-8888,ashley.anderson@example.com,"333 Birch Rd, Anytown, CA 91234"
+Christopher Thomas,S1007,555-999-0000,christopher.thomas@example.com,"444 Cedar Ave, Anytown, CA 91234"
+Sarah Jackson,S1008,555-222-3333,sarah.jackson@example.com,"555 Willow Ln, Anytown, CA 91234"
+Matthew White,S1009,555-444-5555,matthew.white@example.com,"666 Oak St, Anytown, CA 91234"
+Amanda Harris,S1010,555-666-7777,amanda.harris@example.com,"777 Pine Ave, Anytown, CA 91234"

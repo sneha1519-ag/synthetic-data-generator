@@ -1,0 +1,13 @@
+patient_id,name,age,gender,admission_date,diagnosis,treatment,discharge_date,doctor
+P0001,John Smith,45,Male,2024-03-12,Pneumonia,Antibiotics,2024-03-19,Dr. Emily Carter
+P0002,Jane Doe,62,Female,2024-03-15,Heart Failure,Medication,2024-03-28,Dr. David Lee
+P0003,Robert Johnson,38,Male,2024-03-18,Appendicitis,Appendectomy,2024-03-22,Dr. Sarah Miller
+P0004,Mary Brown,78,Female,2024-03-21,Stroke,Physical Therapy,2024-04-05,Dr. Michael Wilson
+P0005,David Garcia,25,Male,2024-03-24,Broken Leg,Cast,2024-03-28,Dr. Jessica Davis
+P0006,Linda Rodriguez,51,Female,2024-03-27,Diabetes,Insulin Therapy,2024-04-02,Dr. Kevin Garcia
+P0007,Michael Williams,42,Male,2024-03-30,Asthma,Inhaler,2024-04-03,Dr. Ashley Rodriguez
+P0008,Barbara Wilson,68,Female,2024-04-02,Arthritis,Medication,2024-04-09,Dr. Christopher Williams
+P0009,Charles Martin,35,Male,2024-04-05,Flu,Rest and Fluids,2024-04-08,Dr. Angela Martin
+P0010,Susan Anderson,59,Female,2024-04-08,Hypertension,Medication,2024-04-15,Dr. Matthew Anderson
+P0011,Joseph Thomas,29,Male,2024-04-11,Back Pain,Physical Therapy,2024-04-18,Dr. Elizabeth Thomas
+P0012,Margaret Jackson,75,Female,2024-04-14,Osteoporosis,Medication,2024-04-21,Dr. David Jackson

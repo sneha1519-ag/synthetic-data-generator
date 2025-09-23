@@ -1,0 +1,14 @@
+product_id,product_name,category,price,seller,rating,review_count,purchase_date
+B08NLRJ2Y7,Echo Dot (4th Gen),Electronics,49.99,Amazon,4.5,56789,2024-01-20
+B08NFTGF7P,Fire TV Stick 4K,Electronics,39.99,Amazon,4.3,43210,2024-01-21
+B07PGL2PLH,Instant Pot Duo,Kitchen & Dining,99.99,Instant Pot,4.7,78901,2024-01-22
+B07XSZD1ZT,Apple AirPods Pro,Electronics,219.0,Apple,4.6,65432,2024-01-23
+B07WD55H6Z,Keurig K-Classic,Kitchen & Dining,79.99,Keurig,4.4,32109,2024-01-24
+B08PG6Q77S,Nintendo Switch,Video Games,299.99,Nintendo,4.8,90123,2024-01-25
+B07Y3Z4V4H,Fitbit Versa 3,Electronics,199.95,Fitbit,4.2,21098,2024-01-26
+B08244NBMK,Sony WH-1000XM4,Electronics,348.0,Sony,4.9,87654,2024-01-27
+B08FC9R268,iRobot Roomba i7+,Home & Kitchen,799.99,iRobot,4.5,54321,2024-01-28
+B08H99QP2R,Samsung Galaxy S21,Electronics,799.99,Samsung,4.7,76543,2024-01-29
+B08HSG77WM,LG CX Series OLED TV,Electronics,1499.99,LG,4.6,67890,2024-01-30
+B08L5VJRCM,Xbox Series X,Video Games,499.99,Microsoft,4.8,98765,2024-01-31
+B08NLRJ2Y7,Echo Dot (4th Gen),Electronics,49.99,Amazon,4.5,56789,2024-02-01

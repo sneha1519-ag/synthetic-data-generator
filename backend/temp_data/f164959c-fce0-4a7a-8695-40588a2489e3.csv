@@ -1,0 +1,110 @@
+name,birthdate,address,phone,city,state,device_id,status
+Jennifer Gilbert,1958-09-25,"Flat 6
+Bentley wells",(0118)4960309,Murcia,Rheinland-Pfalz,b808832e-7681-4106-ab4c-6f3cab745494,pending
+Emmanuel Rossi,1960-11-24,6 Paige inlet,(0116) 496 0575,Costa-sur-Peltier,Almería,93896b05-e0f2-49ea-ba40-c3b0fc2aa924,active
+Marie-Luise Krein,1976-02-13,"93, avenue Gilles",+34872383583,Halberstadt,Sevilla,926fe735-9513-41eb-8480-c16ee905853c,active
+Noé Calatayud Flores,1945-06-17,8 Gareth run,02534 915431,Lake Louisemouth,Niedersachsen,41701cd5-e62c-47a7-aff4-8bc74cd21fe1,success
+Pasquale Thies,2006-06-24,"92, rue Colin",0624878753,Sainte Julie,New Jersey,fef0134f-c93d-4fe7-afaf-08f6c20bbd9e,pending
+Salvador Seguí Ferrero,1989-11-30,86449 Miller Valley,0808 1570739,West Aaron,Sachsen,631605b1-6509-4ed8-9c29-ddf831c83a8c,success
+Dr. Gisela Warmer,1974-11-30,Huhngasse 7/9,+34841 35 03 98,Álava,Ávila,ed032c83-e372-438c-8aad-b797c86d30a8,success
+Theresa Marshall,1976-05-10,"26, boulevard de Buisson",01405 469658,Saint LouiseBourg,Thüringen,8a6eabf9-c3cc-4eee-8609-ea3fc17ee1f4,pending
+Ms Beth Evans,1943-07-17,"480, boulevard de Labbé",0771614241,Regen,Sachsen-Anhalt,bdc1c8d1-7953-4541-a119-82020dfd3d43,pending
+Mr Kyle Richardson,1970-12-15,avenue Lefort,(028)9018223,Lake Elizabethside,Madrid,1d182951-3ffe-4a05-8d5a-1cdd1ca95a48,inactive
+Nadeshda Säuberlich,2000-03-28,"Flat 14d
+Gerald vista",+44(0)808 157 0618,Joannaside,Álava,988e930c-1432-4ea3-b0d9-bb9f937faab2,success
+Ryan Ibarra,1994-04-23,Darius-Hecker-Allee 6/2,7192090481,Port Normanfort,Santa Cruz de Tenerife,53216114-4e3d-4fcf-ac7d-216348130e63,active
+Ashley Palmer,2003-04-12,3080 Charles Terrace Suite 064,01865355997,Paris,Segovia,07b1185d-dc85-4ec4-93e8-3d386027a7ef,success
+Margaux de Lesage,1960-09-19,Ehlertallee 07,+34873947854,Grimmen,Thüringen,0f79c2c7-bb81-47d7-a5c3-7e94e438680d,success
+Sylvie Barth,1998-02-19,C. de Javi Nicolás 64,+33 2 18 01 69 16,Forst,Cádiz,9ea458e5-6d4e-4037-bf8d-16ee62b7529e,success
+Margot Clément,1965-08-08,76743 Forbes Groves Suite 573,776.700.8285x9459,Victorhaven,Texas,5931f13f-ee8c-4094-9023-dc9a1db6d411,success
+Hubertine Pärtzelt,1998-12-25,Alameda de Martirio Quiroga 8 Puerta 5 ,01414960066,Finsterwalde,Niedersachsen,de52678b-f9e3-47e9-bf8d-85503b0d645c,pending
+Alice Torres,1970-11-22,Paseo Iván Mesa 7 Puerta 9 ,05975338757,Weißenfels,Nevada,5b2c9458-17d4-4fe5-956b-724f5e4a6222,active
+Hortense Pires-Lamy,1998-03-25,Schülerstr. 9,+34 825 836 158,Heinsberg,Albacete,22237109-2853-4c06-901f-a7ee59e0be5b,inactive
+Alphonse Devaux-Louis,2007-04-08,66 Collier drive,05473 51870,Lefebvre-la-Forêt,Ciudad,bb0877ab-6022-422a-b1db-79c0eb11d62f,error
+Dylan Delgado,1983-06-21,Acceso Teresita Hoyos 486 Apt. 65 ,+33 1 55 83 98 28,Port Jacobmouth,Bayern,afc2c599-32c6-42d9-8d37-f0ea58d3bfd5,pending
+Adèle de la Lombard,1996-05-01,Cuesta de Carmen Giralt 59 Piso 0 ,+449098790785,Córdoba,Guadalajara,d8dde221-9323-488f-b102-3ad3054f55f5,active
+Irene Tomlinson-Robinson,1957-03-28,Sergej-Kabus-Gasse 439,06200562005,Neunburg vorm Wald,Montana,e138455b-22f0-4832-80ee-36cd9c9688a6,success
+Mr Gerald Ford,1983-01-12,"50, rue Lorraine Brunel",(02385) 04922,Caldwellside,Valladolid,916985e6-8f44-43bb-ac74-2d6e869c90d6,success
+Georges Loiseau,1973-08-28,"Studio 4
+Hollie hills",+49(0)2880627079,Mitchellhaven,Salamanca,a18750f8-d896-4e9e-bf1b-eb1bb227e404,success
+Leire Aliaga,1965-01-18,575 Fiona cove,+34873 388 584,Petit,Louisiana,695db76f-2658-4977-9c05-088908e0ad61,active
+Catalina Sevillano,1980-07-30,Schmidtring 8/3,+49 (0) 7489 158634,Lenoir,Bayern,05391f5e-fc0f-42c4-911e-c245a5def5e6,active
+Melanie Butler,1978-07-03,12447 Brandon Expressway Apt. 086,+49(0)5863124735,Karlburgh,Córdoba,abe6e4cf-5c04-4e6e-8ab7-e504b8ad06a7,inactive
+Úrsula Ibáñez Agudo,1964-11-22,Pasadizo Chus Heras 20,(0808)1570255,Jaén,Alaska,0060a71e-f6fd-4302-b5af-1dda269a8c24,pending
+John Jones,1958-06-20,"Studio 1
+Cooper islands",08046 949665,East Wesley,Salamanca,071c6750-1cc1-4688-ad30-66b88298c7d2,success
+Éric Thomas,1997-10-17,Pasadizo de Chuy Varela 72 Puerta 3 ,+34948 63 64 28,Cuenca,Huesca,f80d43d8-5679-456c-8268-ae1e9ee43e09,pending
+Amalia Laguna-Escribano,1960-05-16,Cañada de Rosa Bermejo 409,(05651) 61725,Lobenstein,Schleswig-Holstein,98b97d38-a180-4d69-95c9-00edaad145fa,success
+Émile Ramos-Collet,1958-07-05,557 Alfred Grove Suite 118,+49(0) 545866340,Murcia,Guipúzcoa,4dbbfa69-4d45-4822-8717-fab31e5b9fff,inactive
+Donna Walsh,2000-08-26,"Flat 0
+Thomas land",020 74960898,Hechingen,Zamora,f2a67796-329e-4cf6-b5e2-eef1eb3a4c99,error
+Christina Hodges,1954-09-26,16194 Johnson Valley Suite 765,+44(0)114 4960308,Ciudad,Hawaii,eb4fdf93-9530-4439-847f-78e8f876087f,error
+Tristan-David Jacquot,1940-03-27,Gunar-Naser-Allee 1/4,815.972.0605,West Norman,Lugo,bfde68fb-3f80-480a-b51e-1bcbfd7a7bb3,inactive
+Tere Giménez Antúnez,1992-03-26,28 Smith crescent,299-372-8388x0821,Guipúzcoa,Utah,2e218a60-e2a6-44ce-a0a1-daa174c33e06,active
+Walfried Mälzer,1972-08-25,Cuesta Anselmo Maza 260,01 83 95 42 80,Palencia,Bremen,51290934-5257-4fa0-9ec4-52b67ee0d1e4,active
+Román Hernandez Montero,1997-12-29,443 Joseph Tunnel Suite 265,(0141)4960636,East Joeland,Alaska,6c40bb4d-699d-48bc-afa6-4c791c5c58cb,pending
+Michelle King,2001-05-09,7 Dawn plaza,9908373236,Kyritz,Asturias,5b31114a-fa62-4c33-9b21-bb8153743f7c,active
+Mrs. Kayla Rangel,1941-01-02,"Studio 28
+Jason station",+49 (0) 6814 694927,Lake Ritastad,Minnesota,b4179cd8-8bf4-4d42-a0ed-dcdc933bb955,active
+Antonius Kitzmann,1938-11-01,Meisterallee 59,+44114 496 0094,Lake Joyce,Bremen,8f850d27-d969-446a-96e3-312a654d2b5b,inactive
+Corona Julieta Sureda Garmendia,1978-07-17,Rohtgasse 5/9,+34923 81 85 18,Sainte Isabelle-les-Bains,New Hampshire,2f7572bb-ecea-49a3-8cbb-c646f81cc4eb,success
+Remedios Paz Tormo,1980-12-23,Haasestraße 3,+44(0)9098790485,Sainte Louis-la-Forêt,North Dakota,227b6be7-032f-4d13-8148-0de9827e6d2c,active
+Owen Williams,1990-08-10,"6, avenue Christelle Prévost",+33 3 29 95 93 39,East David,Saarland,f689569f-4a15-46d8-86c0-dafcb6faf875,active
+Calvin Ruiz,1980-01-25,3 Declan ranch,+34 927112946,Ciudad,Cantabria,d95decb9-04ca-42c5-9d4d-0111cd7fb06d,inactive
+Mr Charles Bartlett,1942-05-17,"67, rue Jacquot",0115 496 0131,Carolineton,Zaragoza,3acd99b7-44ad-4edb-93be-2903b4a32f1f,error
+Darren Kerr,1970-10-26,1 Smith branch,01632960156,Asturias,Georgia,af64ba30-4ac1-4604-a435-6e98e5cce291,error
+Xavier Seguin,1996-03-30,Callejón Gastón Núñez 32 Apt. 71 ,02 30 80 68 89,North Kimberlyport,Almería,beb36820-7498-445b-9152-992eff68eada,success
+Paul Schüler,1987-07-20,boulevard Éléonore Antoine,+34 946 20 44 44,Amberton,Bayern,f94ef266-4dc5-47fd-877f-0fab0ed5ffcf,pending
+Emilio Francisco Bravo,1981-08-28,"82, avenue Arthur Marty",+44(0)909 8790815,Salamanca,Vermont,1963f6a7-3a71-41c9-a35c-2f440b10c253,error
+Demetrio Francisco,2004-01-01,163 Powell Station Apt. 765,+49(0)6523 706208,Álava,Rheinland-Pfalz,2b2247fd-0b6b-408a-a3a5-12ec54e6899d,error
+James Bishop,1961-03-09,"98, chemin Maurice Lebreton",+34843 399 976,Kimland,Colorado,f6164d4c-d44c-4a8b-8660-a70f1aec3da1,active
+Luc Foucher,1949-06-18,948 Marsh Light Suite 147,+49(0) 599534669,Guipúzcoa,Washington,ac45f804-b075-41ba-b97e-fc71f96db92f,inactive
+Adrien-Benoît Bouchet,1947-02-18,"817, chemin de François",+33 2 85 54 21 06,Raventown,Soria,536b250b-fd06-49e2-8e7e-dbe5ddef0c33,pending
+Matilde Lucas Vallejo,2002-08-19,"60, chemin Lemaître",+441184960714,Nguyenmouth,Sachsen,582e49fa-e716-4770-8a7e-a1dc19660c5a,pending
+Christopher Mcintyre,1959-10-29,Egbert-Kohl-Gasse 51,(03606) 977479,Oberviechtach,Palencia,44ae73cb-ab10-4655-95fb-e5cd451c3039,inactive
+Arnaude Besson,1966-11-15,Gröttnerstraße 9/5,0115 496 0551,Auerbach,Michigan,9e552e02-a95e-40c5-bf4f-e8f3f5c17d4b,pending
+Gervasio Serra,1975-11-24,Plaza Amílcar Téllez 977 Piso 0 ,01154960471,Sainte Inès,Rheinland-Pfalz,849e1238-1534-463b-a5df-c8a7aa1a0fe9,pending
+Vincent Lambert,1962-02-21,Bernadette-Hölzenbecher-Straße 373,02 48 31 22 84,North Hayley,Thüringen,5d6c04be-a287-4531-99dd-cef4e3a626f2,active
+Gary Roberts,1981-05-07,"235, chemin Isaac Benoit",+34974309467,Vilsbiburg,Cuenca,c7deb9ff-aff9-4f93-97a2-bf6731886b7e,error
+Bernabé Canet Badía,1980-10-20,Natali-Eberth-Weg 413,001-912-910-8566x92211,Strasburg,Sachsen,a094aae2-852c-450f-a50a-a5a759f5ca2a,pending
+Kim Ramirez,1987-09-13,Pasaje de Noelia Bejarano 73,03268 093346,North Kathryn,Wisconsin,cb12c7f1-82ba-4a33-9258-45a12cb56cc2,success
+Juan Luis del Figuerola,1965-11-18,Ottokar-Drewes-Allee 7,+49(0) 356955580,Girona,Madrid,d48d7d0d-f7a9-499d-816b-7c007fd4351e,success
+Freddy Kusch B.A.,1993-05-06,Alameda Elodia Sacristán 55,3673937127,Lake Paulachester,Mississippi,d439f840-0e34-439a-a22e-0671e8c99e0f,active
+Marcos Blanes Sastre,1940-01-24,76 Sophie landing,0483932101,Torres,Cantabria,afc3c7a8-8280-4153-81d4-488345b6fac3,pending
+Jordan Keith,1995-09-06,Linkestr. 22,(07346) 96413,Andreabury,Schleswig-Holstein,e9d7a991-2e8a-4ce2-8392-abac44804c13,inactive
+Johnny Jennings,1985-01-07,124 Vaughan stream,+34 921105571,Palencia,New York,c92f6778-3836-47c0-bdb6-41f988aa2d63,error
+Marine Roux,1970-04-23,Vial Mar Fuertes 87 Piso 0 ,+33 (0)4 13 28 38 94,Lake Kendra,North Dakota,05933811-e080-4635-8819-9617a4186961,success
+Dipl.-Ing. Gunda Schuchhardt,1991-03-25,22079 Torres Isle Apt. 672,(01632)960127,Stoneport,Thüringen,18c0edf2-1a24-4807-8d26-5b060fcc6885,error
+Léon Lecoq,1981-11-17,Vial Eutropio Lobo 51 Piso 0 ,(0161) 496 0206,Tirschenreuth,Saarland,d2550c35-7287-4795-b831-8a329fcbea0d,success
+Patricia Pozo Solsona,2004-11-05,Ronda de Almudena Adadia 34 Apt. 84 ,+33 (0)4 27 69 20 32,Saint Denis,Bayern,51c74bfd-39d7-483a-9b77-0d7a97c66931,error
+Janko Hentschel B.Sc.,1998-01-26,"Studio 5
+Alexandra lights",+33 (0)4 89 81 34 82,Magdeburg,Zaragoza,5e1c0192-dd3a-4272-b530-17f3949cf78a,inactive
+Laurence Poirier,1951-11-17,Rambla de Elisabet Valero 913,06935588221,Eckernförde,Valladolid,831be0d6-bac9-4cc6-a649-3c5d5a03d414,error
+Kristi Thomas,1993-05-10,rue de Prévost,(745)506-9541x2612,North Josephfort,Pontevedra,92aa0864-6b0b-41be-8ac6-7ed877833498,success
+Eileen Jackson,1958-03-06,03419 Castillo Spring Apt. 384,+34806 677 102,West Martynberg,Bayern,9f35dde2-1489-4da3-bc3b-c8c4ed46349f,error
+Iván Medina,1978-09-30,Alameda de Severo Anglada 6 Piso 6 ,253-478-2146,Augsburg,Jaén,0a7dd8be-7d11-4665-8c64-00804c6ff8ae,inactive
+Amanda Wilson,1938-07-31,31770 Tyler Forest,0443560014,Huelva,Mecklenburg-Vorpommern,b9325e35-c64f-42ef-b096-8a5237b438d1,pending
+Raquel Cobos Coll,1965-04-19,Ronda Jimena Escobar 995,4464943691,Hamel,Hessen,92b46716-caf5-4bf4-a1ae-531b329c7698,success
+Renée Toussaint,1945-08-19,"35, chemin Suzanne Maurice",+34 848 264 004,Rostock,Almería,1be15306-0d22-4a98-bfd6-6db62691076e,pending
+Jennifer Hall,1936-12-29,"42, rue de Camus",(804)875-9803x24495,Joyceburgh,Sachsen-Anhalt,e46e2d77-c72b-44ef-aed9-f34c0b880c8a,pending
+José Antonio Hervás Prats,1985-06-12,Jaroslaw-Killer-Allee 425,0113 4960302,Berlin,Vermont,bca6135d-046a-47c5-9a21-d5e0a1200aa6,pending
+Dorothy Thompson,1940-05-07,7 Emma mountains,+34 964 97 90 33,Ebern,Albacete,c58cd2c2-b542-4d18-852c-180c0ee2ac03,active
+Arthur Pineau,1989-07-29,Plaza de Eli Burgos 9 Puerta 7 ,+34942973137,Pages,Wyoming,b45fe0b8-2679-4725-9efd-f034daa1f9f7,success
+Pauline Lane,1965-06-08,Cañada de Amando Mateu 72 Puerta 2 ,+34 824 22 33 22,Lake Bruce,Hessen,c00fc873-bd8e-4f9c-8d84-d74c7895eb42,pending
+Jerónimo Figuerola,1937-06-03,9 Valerie mission,+33 (0)3 82 59 49 08,Ebermannstadt,Tennessee,327d133a-c2ba-4392-bb21-d57f3c4b6fde,inactive
+Todd Rios,1990-09-14,1271 Carr Overpass,(08975) 60015,Guillaume,Hawaii,19aaf3ab-8f1e-4ce7-8242-9c3716e95fe7,error
+Ale Lerma Folch,1936-03-09,"4, avenue Aimé Royer",211-349-2636,East Elizabeth,South Carolina,c451001e-7b40-471a-923a-38f49fb97dfa,pending
+Samantha Figueroa,1957-05-31,022 Brown Streets,+34 945508491,Palencia,Alabama,62000690-6f4a-4a0e-af86-c382c6f893a9,active
+Silvana Stumpf B.Eng.,1986-01-29,Zahnstr. 845,648-905-1001x9463,Arnaud,Palencia,3d0284af-0583-4942-812c-291da2ae3889,error
+Abigail Davies,1946-10-29,Simon-Roskoth-Gasse 215,0117 4960382,Vizcaya,Pontevedra,7fb5e088-8852-4e6a-8eb3-a72d99b623f2,inactive
+Robert James,1985-03-13,"Studio 78
+Dylan alley",209-818-6731,Bruchsal,Louisiana,8d929234-418a-484a-a404-0b338c184372,error
+Tony Davies,1962-10-29,827 Jason Causeway Apt. 226,+34983383095,Donaldville,Murcia,433bc0cb-9b9c-4a33-978c-96a99b4d5b1d,pending
+Wendy Begum,2003-08-27,162 Christina Key Suite 047,(01984) 47647,Coste-sur-Collet,Mecklenburg-Vorpommern,9ee9b47d-70f5-4948-91a1-e51b82528eef,error
+Conrad Stahr B.A.,1961-02-07,Glorieta Dalila Juliá 55,06 67 04 81 42,New Kayleigh,Asturias,73525006-beaf-4e3c-8d6a-7a09f9740d4f,pending
+Tristan Pires,1981-06-02,Löchelstraße 897,+44(0)131 496 0651,Borken,Maryland,f1a534a7-b100-4896-a8de-f1ff21352d9f,success
+Megan Lane,1934-10-20,"46, avenue Rousseau",001-328-244-2247,Knightshire,Arizona,4c2209ea-b0e1-4c82-818c-4dcaf18f6aec,error
+Antonia del Mayo,1934-07-29,"Studio 15K
+Max mill",03 26 64 33 33,Burgos,Thüringen,cc0f4616-b195-4e28-a4e7-776f720cf44c,pending
+Silvestre Llorente Bas,1954-02-13,Camino María Luisa Mateo 99,0695023429,Scottfurt,Baleares,68d47314-51ad-4d65-a09f-d450dd09fe9f,pending
+Moreno Cisneros Borja,1956-04-04,"547, chemin de Cousin",+34807 585 407,Salamanca,North Dakota,6ebe9f38-22c7-4ed0-a476-250b14f85a0a,active
